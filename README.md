@@ -24,9 +24,9 @@ A clean and simple Android notes app built with **Java** and **Android Studio**.
 ## 📱 Screens
 
 <p align="center">
-   <img src="screenshots/list.jpeg" width="250" alt="Notes list" />
-  <img src="screenshots/add.jpeg" width="250" alt="New note screen" />
-  <img src="screenshots/edit.jpeg" width="250" alt="Edit note screen" />
+     <img src="Screenshots/list.jpeg" width="250" alt="Notes list" />
+  <img src="Screenshots/add.jpeg" width="250" alt="New note screen" />
+  <img src="Screenshots/edit.jpeg" width="250" alt="Edit note screen" />
 </p>
 
 ## 📥 Download
